@@ -1,6 +1,6 @@
 # Hi, I'm Manikanta Amara 👋
 
-**Lead Engineer @ HCLTech** · Python · FastAPI · React
+
 
 I build AI agents, RAG pipelines and MCP integrations, and I make AI engineering **visible**.
 
